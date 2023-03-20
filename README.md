@@ -1,6 +1,8 @@
 # hand-made-shop
-www.patika.dev
-u çalışma "Patika.dev" de başladğım Frontend Web Patikaları kapsamımdaki CSS derslerindeki
+
+Merhaba
+
+"Patika.dev" de başladğım Frontend Web Patikaları kapsamımdaki CSS derslerindeki
 
 Ödev1
 
