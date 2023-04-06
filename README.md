@@ -6,9 +6,8 @@ Merhaba
 
 Ödev1
 
-
-
 bulunuyor.
 
 Aşağıdaki linkten patika adresime ulaşabilirsiniz.
+
 https://app.patika.dev/ysnkoc
