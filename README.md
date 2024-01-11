@@ -10,4 +10,4 @@ bulunuyor.
 
 Aşağıdaki linkten patika adresime ulaşabilirsiniz.
 
-https://app.patika.dev/ysnkoc
+https://academy.patika.dev/@ysnkoc
